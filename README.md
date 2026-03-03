@@ -34,12 +34,3 @@ Tenho interesse em transformar dados em insights estratégicos para tomada de de
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoAmbrosioAbs&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAmbrosioAbs&layout=compact)
-
-</div>
