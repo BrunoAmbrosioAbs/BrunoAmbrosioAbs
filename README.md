@@ -2,8 +2,8 @@
 
 # Bruno Ambrosio
 
-🎓 Ciência de Dados e Inteligência Artificial — Ibmec DF  
-📊 Foco em Análise de Dados, Machine Learning e Business Intelligence  
+🎓 Data Science and Artificial Intelligence — Ibmec DF  
+📊 Focused on Data Analysis, Machine Learning and Business Intelligence  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno%20Ambrosio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunobianco/)
 
@@ -11,14 +11,15 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-Sou estudante de Ciência de Dados e Inteligência Artificial com foco em análise de dados e aplicações práticas de IA.  
-Tenho interesse em transformar dados em insights estratégicos para tomada de decisão orientada a dados.
+Data Science and Artificial Intelligence student focused on data analysis, statistical modeling, and building data-driven solutions.
+
+Interested in working with Data Analytics, Business Intelligence, and Machine Learning.
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 
 <div align="left">
 
