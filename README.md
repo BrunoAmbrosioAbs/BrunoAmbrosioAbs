@@ -9,16 +9,6 @@
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-Data Science and Artificial Intelligence student focused on data analysis, statistical modeling, and building data-driven solutions.
-
-Interested in working with Data Analytics, Business Intelligence, and Machine Learning.
-
----
-
 ## 🛠️ Technologies
 
 <div align="left">
