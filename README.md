@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**BrunoAmbrosioAbs/BrunoAmbrosioAbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bruno Ambrosio
 
-Here are some ideas to get you started:
+🎓 Ciência de Dados e Inteligência Artificial — Ibmec DF  
+📊 Foco em Análise de Dados, Machine Learning e Business Intelligence  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno%20Ambrosio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunobianco/)
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Sou estudante de Ciência de Dados e Inteligência Artificial com foco em análise de dados e aplicações práticas de IA.  
+Tenho interesse em transformar dados em insights estratégicos para tomada de decisão orientada a dados.
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="left">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoAmbrosioAbs&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAmbrosioAbs&layout=compact)
+
+</div>
